@@ -1,0 +1,20 @@
+{
+  "bilge": {
+    "name": "Bilge",
+    "age": "22",
+    "tc": "12345678901",
+    "criminal_record": "hayir"
+  },
+  "gizem": {
+    "name": "Gizem",
+    "age": "27",
+    "tc": "98765432101",
+    "criminal_record": "hayir"
+  },
+  "kubilay": {
+    "name": "Kubilay",
+    "age": "20",
+    "tc": "11223344556",
+    "criminal_record": "evet"
+  }
+}
